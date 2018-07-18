@@ -81,7 +81,8 @@ $(function() {
         });
         /* Ensure there is at least one .entry element within the feed container*/
         it('contain at least one entry', function() {
-            expect($('.entry').length).toBeGreaterThan(0);
+            expect($('.feed .entry').length).toBeGreaterThan(0);
+			done();
         });
     });
 

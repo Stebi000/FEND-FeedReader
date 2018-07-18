@@ -7,6 +7,10 @@ This project is part of the Frontend Web Developer Nanodegree (full Google schol
 
 For this project udacity provided a web-based application that reads RSS feeds. This project's purpose is to build testing suites with Jasmine to check one by one the main functionalities of the feed reader.
 
+## Installation
+
+You can clone this repository or download it as a .zip file, then simply open the `index.html` file to open the RSS reader and check the test results on the page bottom.
+
 ## Tests Included
 
 The tests included are the following (All the functions tests are located in: ``` jasmine/spec/feedreader.js ```):
